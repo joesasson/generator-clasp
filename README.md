@@ -53,7 +53,7 @@ MIT © [Joe Sasson](joesasson.github.io)
 ## Feedback
 
 If you happen to find this useful, or think you may find it useful with some modification, I would love to chat!
-You can open an issue, or send me an email (I'll leave that up to you to figure out)
+You can [open an issue](https://github.com/joesasson/generator-clasp/issues/new), or send me an email (I'll leave that up to you to figure out)
 
 
 [npm-image]: https://badge.fury.io/js/generator-clasp.svg
