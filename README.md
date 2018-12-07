@@ -43,7 +43,7 @@ To finish setting up your clasp project:
 
 ## Special Thanks
 
-- [@robdodson](https://github.com/robdodson) for a [great video](https://www.youtube.com/watch?v=A_OEdyhgnKc) explaining custom yeoman generators (back in 2016 :shrug:)
+- [@robdodson](https://github.com/robdodson) for a [great video](https://www.youtube.com/watch?v=A_OEdyhgnKc) explaining custom yeoman generators (back in 2016 ¯\\\_(ツ)_/¯)
 - [@grant](https://github.com/grant) for making clasp so awesome!
 
 ## License
