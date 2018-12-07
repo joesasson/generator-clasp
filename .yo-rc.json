@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Joe Sasson",
+      "authorEmail": "ysasson88@gmail.com",
+      "authorUrl": "joesasson.github.io"
+    }
+  }
+}
